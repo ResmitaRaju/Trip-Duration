@@ -6,13 +6,3 @@
 
 
 
-# Description of the Files
-
-In the following, a description of the files and folders included in this repository is provided.
-
-## "Report.pdf"
-
-This is the current version of the report of this project. It contains documentation and explanation about all steps of this project.
-
-## "Code Notebooks" Folder
-
